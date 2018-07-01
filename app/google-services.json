@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "259614359249",
+    "firebase_url": "https://arctic-operand-777.firebaseio.com",
+    "project_id": "arctic-operand-777"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259614359249:android:fa4c594cab34ac1b",
+        "android_client_info": {
+          "package_name": "com.journalapp.saidfuad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259614359249-e90r0mt1ktsi91n1id23f58cv6tjv03n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKthB2d-MZQuP8i8Qe5nmi5T0oM9YHKc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
