@@ -8,9 +8,6 @@ import android.widget.TextView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-/**
- * Created by Valentine on 2/13/2017.
- */
 
 public class JournalViewHolder extends RecyclerView.ViewHolder {
     @BindView(R.id.text_view_journal_title)

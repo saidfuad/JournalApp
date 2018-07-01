@@ -20,7 +20,7 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.okason.prontodiary.model.JournalEntry;
+import com.journalapp.saidfuad.model.JournalEntry;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -29,9 +29,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 
-/**
- * A simple {@link Fragment} subclass.
- */
 public class JournalListFragment extends Fragment {
 
     private DatabaseReference mDatabase;
